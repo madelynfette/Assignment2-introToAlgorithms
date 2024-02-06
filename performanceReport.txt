@@ -1,0 +1,126 @@
+Array Size: 100
+	Sorting algorithm - Bubble Sort
+Sorted 100 elements in 0.20 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 100 elements in 0.04 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 100 elements in 0.06 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 100 elements in 0.08 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 100 elements in 0.27 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 100 elements in 0.04 ms (avg)
+
+Array Size: 500
+	Sorting algorithm - Bubble Sort
+Sorted 500 elements in 0.57 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 500 elements in 0.06 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 500 elements in 0.09 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 500 elements in 0.35 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 500 elements in 1.05 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 500 elements in 0.17 ms (avg)
+
+Array Size: 1000
+	Sorting algorithm - Bubble Sort
+Sorted 1000 elements in 1.19 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 1000 elements in 0.09 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 1000 elements in 0.17 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 1000 elements in 0.20 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 1000 elements in 1.53 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 1000 elements in 0.14 ms (avg)
+
+Array Size: 2000
+	Sorting algorithm - Bubble Sort
+Sorted 2000 elements in 4.35 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 2000 elements in 0.22 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 2000 elements in 0.42 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 2000 elements in 0.55 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 2000 elements in 5.63 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 2000 elements in 0.24 ms (avg)
+
+Array Size: 5000
+	Sorting algorithm - Bubble Sort
+Sorted 5000 elements in 29.86 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 5000 elements in 0.37 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 5000 elements in 0.81 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 5000 elements in 2.32 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 5000 elements in 24.76 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 5000 elements in 0.31 ms (avg)
+
+Array Size: 10000
+	Sorting algorithm - Bubble Sort
+Sorted 10000 elements in 103.49 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 10000 elements in 0.63 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 10000 elements in 1.09 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 10000 elements in 6.73 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 10000 elements in 103.02 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 10000 elements in 0.63 ms (avg)
+
+Array Size: 20000
+	Sorting algorithm - Bubble Sort
+Sorted 20000 elements in 556.22 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 20000 elements in 1.45 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 20000 elements in 2.89 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 20000 elements in 30.19 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 20000 elements in 594.94 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 20000 elements in 1.87 ms (avg)
+
+Array Size: 75000
+	Sorting algorithm - Bubble Sort
+Sorted 75000 elements in 8499.17 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 75000 elements in 6.05 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 75000 elements in 11.64 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 75000 elements in 444.01 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 75000 elements in 8179.96 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 75000 elements in 5.06 ms (avg)
+
+Array Size: 150000
+	Sorting algorithm - Bubble Sort
+Sorted 150000 elements in 32754.43 ms (avg)
+	Sorting algorithm - Quick Sort
+Sorted 150000 elements in 11.57 ms (avg)
+	Sorting algorithm - Merge Sort
+Sorted 150000 elements in 16.21 ms (avg)
+	Sorting algorithm - Insertion Sort
+Sorted 150000 elements in 1529.95 ms (avg)
+	Sorting algorithm - Selection Sort
+Sorted 150000 elements in 32638.10 ms (avg)
+	Sorting algorithm - Shell Sort
+Sorted 150000 elements in 9.97 ms (avg)
+
